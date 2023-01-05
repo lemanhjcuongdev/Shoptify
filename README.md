@@ -1,3 +1,4 @@
 # Shoptify
 E-commerce Web App
-Stored on Bitbucket
+# Source code is stored privately on Bitbucket 
+# <a href="https://shoptify-ec.vercel.app/" title="Shoptify">Endpoint product</a>
